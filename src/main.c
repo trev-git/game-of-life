@@ -8,7 +8,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <synchapi.h>
 #ifdef _WIN32
 # include <Windows.h>
 #else
